@@ -721,6 +721,7 @@
                         break;
                     case "FNumber" :
                         exifData[tag] = "f/" + exifData[tag];
+                        break;
                 }
                 tags[tag] = exifData[tag];
             }
