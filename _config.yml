@@ -19,12 +19,8 @@ footer:
 web_design: "Pandora's Fox"
 
 social_urls:
-#  twitter: "https://www.twitter.com/rampatra_"
-  instagram: "https://www.instagram.com/pandoras_fox"
-  flickr: "https://www.flickr.com/photos/pandoras_fox/"
-#  dribbble: "https://dribbble.com/rampatra"
-#  linkedin: "https://in.linkedin.com/in/ram-patra"
-#  github: "https://www.github.com/rampatra"
+ instagram: "https://www.instagram.com/pandoras_fox"
+ flickr: "https://www.flickr.com/photos/pandoras_fox/"
 
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
