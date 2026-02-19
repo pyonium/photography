@@ -20,7 +20,7 @@ web_design: "Pandora's Fox"
 
 social_urls:
  instagram: "https://www.instagram.com/pandoras_fox"
- flickr: "https://www.flickr.com/photos/pandoras_fox/"
+ flickr: "https://www.flickr.com/photos/pandoras_fox/" 
 
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
