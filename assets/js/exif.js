@@ -719,9 +719,6 @@
                             StringValues.Components[exifData[tag][2]] +
                             StringValues.Components[exifData[tag][3]];
                         break;
-                    case "FNumber" :
-                        exifData[tag] = "f/" + exifData[tag];
-                        break;
                 }
                 tags[tag] = exifData[tag];
             }
